@@ -1,0 +1,1 @@
+Note that the javascript code uses constructor functions and the class syntax available in ECMAScript 6 (ES6) and later versions. Also, in javascript, the console.log() function is used to print output to the console.
